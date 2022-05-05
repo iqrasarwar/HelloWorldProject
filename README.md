@@ -8,4 +8,6 @@ This repositry contain following layouts.<br/>
 ![image](https://user-images.githubusercontent.com/71145709/166098838-7f801105-52b6-427f-8ae6-fa852dd460c5.png)
 #### Landscape Mode
 ![image](https://user-images.githubusercontent.com/71145709/166722393-d03bb5ee-54de-4f12-bc50-645e56c2e529.png)
+![image](https://user-images.githubusercontent.com/71145709/166985537-e5350bb5-e8fa-466b-826e-5ec7b82e2fb3.png)
+
 
